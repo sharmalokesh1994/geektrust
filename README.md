@@ -20,6 +20,7 @@ for test - gradle clean test
 
 # Sample response -> (from intellij terminal)
 LM0002283:geektrust lokesh16.sharma$ java -jar build/libs/geektrust.jar /Users/lokesh16.sharma/test/demo/input.txt 
+
 IDIDI Dale 1326 9
 
 IDIDI Dale 3652 4
