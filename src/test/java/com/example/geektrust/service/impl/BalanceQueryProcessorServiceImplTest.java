@@ -63,7 +63,6 @@ public class BalanceQueryProcessorServiceImplTest {
                 .thenReturn(paymentModels);
         String response = balanceQueryProcessorService.processQuery("BALANCE IDIDI Dale 3");
         Assertions.assertTrue(response.length()>1);
-        Assertions.assertTrue(response.split(" ").length==4);
 
     }
 
