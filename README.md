@@ -30,3 +30,6 @@ UON Shelly 15856 3
 MBI Harry 9044 10
 
 LM0002283:geektrust lokesh16.sharma$ 
+
+# for more clearity, please check below result image
+https://github.com/sharmalokesh1994/geektrust/blob/master/sample_result.png
